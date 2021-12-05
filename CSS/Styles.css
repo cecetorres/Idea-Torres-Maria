@@ -19,13 +19,16 @@ header{
 span{
     font-weight: bold;
 }
-footer{
+.pie-de-pagina{
     background-color: aquamarine;
     height: 6em;
 }
 /* 2)INDEX#################################################################### */
 
 /* 3)NOSOTROS#################################################################### */
+.titulo-nosotros{
+    background-color: #ADE8F4;
+}
 
 /* 4)CURSOS#################################################################### */
 
