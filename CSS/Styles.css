@@ -24,9 +24,14 @@ span{
     color: white;
     height: 3em;
 }
+.con-margen{margin-top: 2em;}
+.con-margen-grueso{margin-top: 6em;}
+
+.con-espacio-grueso{padding-top: 6em;}
 /* 2)INDEX#################################################################### */
 .fondo-azul{background-color: #ADE8F4;}
 .fondo-azul2{background-color: #48CAE4 ;}
+.fondo-azul3{background-color: #CAF0F8;}
 
 /* 3)NOSOTROS#################################################################### */
 .titulo-nosotros{
@@ -35,8 +40,10 @@ span{
 
 /* 4)CURSOS#################################################################### */
 .fondo-color{background-color: #ADE8F4;}
+.container-cursos{margin-top: 2em;}
 
 /* 5)FAQ#################################################################### */
+
 .img1{width: fit-content;}
 .img2{width: fit-content;}
 .img3{width: fit-content;}
@@ -53,6 +60,6 @@ span{
 
 /* 7)CONTACTANOS#################################################################### */
 .formulario{
-    background-color: beige;
+    background-color: #48CAE4;
     border: solid 2px black;
 }
