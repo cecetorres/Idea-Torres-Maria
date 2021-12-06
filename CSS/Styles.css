@@ -9,7 +9,7 @@
 
 1) GENERAL ####################################################################### */
 header{
-    background-color: aquamarine;
+    background-color: #0077B6;
     height: 6em;
 }
 .logo{
@@ -20,10 +20,13 @@ span{
     font-weight: bold;
 }
 .pie-de-pagina{
-    background-color: aquamarine;
-    height: 6em;
+    background-color: #023E8A;
+    color: white;
+    height: 3em;
 }
 /* 2)INDEX#################################################################### */
+.fondo-azul{background-color: #ADE8F4;}
+.fondo-azul2{background-color: #48CAE4 ;}
 
 /* 3)NOSOTROS#################################################################### */
 .titulo-nosotros{
@@ -31,6 +34,7 @@ span{
 }
 
 /* 4)CURSOS#################################################################### */
+.fondo-color{background-color: #ADE8F4;}
 
 /* 5)FAQ#################################################################### */
 .img1{width: fit-content;}
