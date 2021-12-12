@@ -28,10 +28,18 @@ span{
 .con-margen-grueso{margin-top: 6em;}
 
 .con-espacio-grueso{padding-top: 6em;}
+.circulo{
+    width: 200px;
+    height:200px;
+    background-color: aquamarine;
+    border-radius: 100%;
+}
+
 /* 2)INDEX#################################################################### */
 .fondo-azul{background-color: #ADE8F4;}
 .fondo-azul2{background-color: #48CAE4 ;}
 .fondo-azul3{background-color: #CAF0F8;}
+.fondo-azul4{background-color: #0077B6;}
 
 /* 3)NOSOTROS#################################################################### */
 .titulo-nosotros{
